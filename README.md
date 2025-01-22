@@ -1,4 +1,4 @@
-# WooCommerceProductSticker
+# WooCommerce Product Stickers
 
 Requires at least: 5.9.1
 Tested up to: 6.7.1
