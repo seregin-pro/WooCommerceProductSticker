@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: WooCommerce Stickers
+Plugin Name: WooCommerce Product Stickers
 Plugin URI: https://wordpress.org/plugins/product-sticker
 Description: Product stickers for WooCommerce
 Version: 1.0.1
