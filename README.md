@@ -5,7 +5,12 @@
 <li>Requires PHP: 7.0</li>
 <li>Version: 1.0.1</li>
 </ul>
-<p>Plugin add various stickers to your products in your WooCommerce. Various stickers are available like stickers for Sale, New, Soldout, Bestseller Products.</p>
+<p>Plugin add stickers to your products in your WooCommerce..</p>
+<h2>Available stickers</h2>
+<p>Sale - shows when the products has discount price.</p>
+<p>New - shows for the new products.</p>
+<p>Soldout - shows when the products are out of stocks.</p>
+<p>Bestseller - shows with the highest sales.</p>
 <h2>Installation</h2>
 <ol>
 <li>Upload "product-sticker" to the "/wp-content/plugins/" directory</li>
