@@ -14,10 +14,10 @@
 <table style="width: 100%;">
     <tr>
 	    <td>
-			<img src="https://github.com/seregin-pro/WooCommerceProductSticker/blob/main/screenshots/screenshot-1.png" alt="Screenshot 1" style="margin-right: 5px;">
+			<img src="https://github.com/seregin-pro/WooCommerceProductSticker/blob/main/screenshots/screenshot-1.png" alt="Screenshot 1">
 		</td>
 		<td>
-		    <img src="https://github.com/seregin-pro/WooCommerceProductSticker/blob/main/screenshots/screenshot-2.png" alt="Screenshot 2"  style="margin-left: 5px;">
+		    <img src="https://github.com/seregin-pro/WooCommerceProductSticker/blob/main/screenshots/screenshot-2.png" alt="Screenshot 2">
 		</td>
     </tr>
 </table>
