@@ -11,6 +11,16 @@
 <p>New - shows for the new products.</p>
 <p>Soldout - shows when the products are out of stocks.</p>
 <p>Bestseller - shows with the highest sales.</p>
+<table>
+    <tr>
+	    <td>
+			<img src="https://github.com/seregin-pro/WooCommerceProductSticker/blob/main/screenshots/screenshot-1.png" alt="Screenshot 1" width="200">
+		</td>
+		<td>
+		    <img src="https://github.com/seregin-pro/WooCommerceProductSticker/blob/main/screenshots/screenshot-2.png" alt="Screenshot 2" width="200">
+		</td>
+    </tr>
+</table>
 <h2>Installation</h2>
 <ol>
 <li>Upload "product-sticker" to the "/wp-content/plugins/" directory</li>
