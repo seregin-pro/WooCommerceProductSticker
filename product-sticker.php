@@ -5,7 +5,7 @@ Plugin URI: https://wordpress.org/plugins/product-sticker
 Description: Product stickers for WooCommerce
 Version: 1.0.1
 Author: sereginpro
-Author URI: https://seregin-pro.ru/
+Author URI: https://zettatech.ru/
 License: GPLv2 or later
 Text Domain: product-sticker
 */
